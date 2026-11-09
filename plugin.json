@@ -1,0 +1,52 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "chatstack-app-cost-estimator",
+  "version": "1.0.1",
+  "description": "Estimate app and AI solution development costs and hours, scope an MVP, and generate a software PRD with user stories, requirements, and a technical specification.",
+  "author": {
+    "name": "App Developer Studio",
+    "url": "https://www.chatstack.app/"
+  },
+  "homepage": "https://www.chatstack.app/",
+  "repository": "https://github.com/appdevstu/chatstack-app-plugin-public",
+  "license": "MIT",
+  "keywords": [
+    "app-cost-estimate",
+    "software-cost-estimate",
+    "mvp-scope",
+    "development-hours",
+    "prd",
+    "user-stories",
+    "requirements",
+    "technical-specification"
+  ],
+  "logo": "assets/logo.png",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "ChatStack - App Cost Estimator",
+        "shortDescription": "Estimate app costs; scope MVPs",
+        "longDescription": "Estimate development costs and hours for a mobile app, web app, or AI solution, scope your MVP, and create a product requirements document (PRD). ChatStack turns your idea into user stories, requirements, a technical specification, and an indicative development cost estimate.\n\nChoose “Review each step” to answer targeted questions and review outputs, or “Run it for me” to let ChatStack proceed using stated assumptions. Refine your scope and use the resulting specification with your chosen developers or AI coding tools.\n\nEstimates include assumptions and exclusions and are indicative, subject to project review. Created by App Developer Studio. A consultation with the team is optional.",
+        "developerName": "App Developer Studio",
+        "category": "Developer Tools",
+        "capabilities": [
+          "App cost estimates",
+          "Software PRD (product requirements)",
+          "User stories",
+          "Technical specifications"
+        ],
+        "websiteURL": "https://www.chatstack.app/",
+        "supportURL": "https://www.chatstack.app/speak-to-a-human",
+        "privacyPolicyURL": "https://www.chatstack.app/non-disclosure-and-tcs",
+        "termsOfServiceURL": "https://www.chatstack.app/non-disclosure-and-tcs",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/logo.png",
+        "defaultPrompt": [
+          "How much would my app cost to build?",
+          "Estimate my app idea",
+          "Help me estimate development hours and scope an MVP"
+        ]
+      }
+    }
+  }
+}

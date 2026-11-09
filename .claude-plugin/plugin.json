@@ -1,0 +1,27 @@
+{
+  "name": "chatstack-app-cost-estimator",
+  "version": "1.0.1",
+  "description": "Estimate app and AI solution development costs and hours, scope an MVP, and generate a software PRD with user stories, requirements, and a technical specification.",
+  "author": {
+    "name": "App Developer Studio",
+    "url": "https://www.chatstack.app/"
+  },
+  "homepage": "https://www.chatstack.app/",
+  "repository": "https://github.com/appdevstu/chatstack-app-plugin-public",
+  "license": "MIT",
+  "keywords": [
+    "app-cost-estimate",
+    "software-cost-estimate",
+    "mvp-scope",
+    "development-hours",
+    "prd",
+    "user-stories",
+    "requirements",
+    "technical-specification"
+  ],
+  "displayName": "ChatStack - App Cost Estimator",
+  "icon": "assets/logo.png",
+  "supportUrl": "https://www.chatstack.app/speak-to-a-human",
+  "privacyPolicyUrl": "https://www.chatstack.app/non-disclosure-and-tcs",
+  "termsOfServiceUrl": "https://www.chatstack.app/non-disclosure-and-tcs"
+}

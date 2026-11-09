@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chatstack-app-cost-estimator": {
+      "type": "http",
+      "url": "https://mcp.chatstack.app/mcp"
+    }
+  }
+}
