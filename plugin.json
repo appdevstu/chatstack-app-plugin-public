@@ -7,7 +7,7 @@
     "name": "App Developer Studio",
     "url": "https://www.chatstack.app/"
   },
-  "homepage": "https://www.chatstack.app/",
+  "homepage": "https://www.chatstack.app/?utm_source=cursor-marketplace&utm_medium=marketplace",
   "repository": "https://github.com/appdevstu/chatstack-app-plugin-public",
   "license": "MIT",
   "keywords": [
@@ -35,7 +35,7 @@
           "User stories",
           "Technical specifications"
         ],
-        "websiteURL": "https://www.chatstack.app/",
+        "websiteURL": "https://www.chatstack.app/?utm_source=chatgpt-plugin&utm_medium=directory",
         "supportURL": "https://www.chatstack.app/speak-to-a-human",
         "privacyPolicyURL": "https://www.chatstack.app/non-disclosure-and-tcs",
         "termsOfServiceURL": "https://www.chatstack.app/non-disclosure-and-tcs",
