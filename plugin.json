@@ -42,8 +42,8 @@
         "composerIcon": "./assets/icon.png",
         "logo": "./assets/logo.png",
         "defaultPrompt": [
+          "Estimate my app idea:",
           "How much would my app cost to build?",
-          "Estimate my app idea",
           "Help me estimate development hours and scope an MVP"
         ]
       }
